@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <application id="EnginePrime">
+        <newest>
+            <version platform="mac" number="2.1.0">
+                <summary>EnginePrime 2.1.0</summary>
+                <page url="https://enginedj.com/software/enginedj-desktop"></page>
+            </version>
+            <version platform="win64" number="2.1.0">
+                <summary>EnginePrime 2.1.0</summary>
+                <page url="https://enginedj.com/software/enginedj-desktop"></page>
+            </version>
+        </newest>
+    </application>
+    <application id="SC5000">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>SC5000 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC5000-2.1.0-Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="SC5000M">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>SC5000M 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC5000M-2.1.0-Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="SC6000">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>SC6000 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC6000-2.1.0-Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="SC6000M">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>SC6000M 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC6000M-2.1.0-Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="PRIME2">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>PRIME2 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/PRIME2-2.1.0Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="PRIME4">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>PRIME4 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/PRIME4-2.1.0-Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="PRIMEGO">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>PRIMEGO 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/PRIMEGO-2.1.0-Update.img"/>
+            </version>
+        </newest>
+    </application>
+    <application id="MIXSTREAMPRO">
+        <newest>
+            <version platform="linux" number="2.1.0">
+                <summary>MIXSTREAMPRO 2.1.0</summary>
+                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/MIXSTREAMPRO-2.1.0-Update.img"/>
+                <page url="https://www.enginedj.com/downloads"></page>
+            </version>
+        </newest>
+    </application>
+</updateInfo>
