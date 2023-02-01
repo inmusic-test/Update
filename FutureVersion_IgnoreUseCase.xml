@@ -1,80 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <updateInfo>
-    <application id="EnginePrime">
-        <newest>
-            <version platform="mac" number="2.4.0">
-                <summary>EnginePrime 2.4.0</summary>
-                <page url="https://enginedj.com/software/enginedj-desktop"></page>
-            </version>
-            <version platform="win64" number="2.4.0">
-                <summary>EnginePrime 2.4.0</summary>
-                <page url="https://enginedj.com/software/enginedj-desktop"></page>
-            </version>
-        </newest>
-    </application>
-    <application id="SC5000">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>SC5000 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC5000-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="SC5000M">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>SC5000M 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC5000M-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="SC6000">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>SC6000 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC6000-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="SC6000M">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>SC6000M 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/SC6000M-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="PRIME2">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>PRIME2 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/PRIME2-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="PRIME4">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>PRIME4 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/PRIME4-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="PRIMEGO">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>PRIMEGO 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/PRIMEGO-2.4.0-Update.img"/>
-            </version>
-        </newest>
-    </application>
-    <application id="MIXSTREAMPRO">
-        <newest>
-            <version platform="linux" number="2.4.0">
-                <summary>MIXSTREAMPRO 2.4.0</summary>
-                <image url="https://cdn.inmusicbrands.com/engine/m6dy5/EOS-OTA-IMG/MIXSTREAMPRO-2.4.0-Update.img"/>
-                <page url="https://www.enginedj.com/downloads"></page>
-            </version>
-        </newest>
-    </application>
+  <application id="EnginePrime">
+    <newest>
+      <version platform="mac" number="4.0.0">
+        <summary>EnginePrime 4.0.0</summary>
+        <page url="https://enginedj.com/downloads"/>
+      </version>
+      <version platform="win64" number="4.0.0">
+        <summary>EnginePrime 4.0.0</summary>
+        <page url="https://enginedj.com/downloads"/>
+      </version>
+    </newest>
+  </application>
+  <application id="SCLIVE2">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>SCLIVE2 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/SCLIVE2-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="SCLIVE4">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>SCLIVE4 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/SCLIVE4-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="MIXSTREAMPRO">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>MIXSTREAMPRO 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/MIXSTREAMPRO-4.0.0-Update.img"/>
+        <page url="https://www.enginedj.com/downloads"/>
+      </version>
+    </newest>
+  </application>
+  <application id="PRIME4">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>PRIME4 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/PRIME4-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="PRIMEGO">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>PRIMEGO 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/PRIMEGO-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="PRIME2">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>PRIME2 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/PRIME2-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="SC6000">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>SC6000 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/SC6000-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="SC6000M">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>SC6000M 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/SC6000M-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="SC5000">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>SC5000 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/SC5000-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="SC5000M">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>SC5000M 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/SC5000M-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
+  <application id="MIXSTREAMPROPLUS">
+    <newest>
+      <version platform="linux" number="4.0.0">
+        <summary>MIXSTREAMPROPLUS 4.0.0</summary>
+        <image url="https://imb-cicd-public.s3.amazonaws.com/Engine/4.0.0/Release/EOS/6f6df08a38/MIXSTREAMPROPLUS-4.0.0-Update.img"/>
+      </version>
+    </newest>
+  </application>
 </updateInfo>
