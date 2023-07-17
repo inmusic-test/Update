@@ -2,12 +2,12 @@
 <updateInfo>
   <application id="EnginePrime">
     <newest>
-      <version platform="mac" number="3.2.0">
-        <summary>EnginePrime 3.2.0</summary>
+      <version platform="mac" number="3.3.0">
+        <summary>EnginePrime 3.3.0</summary>
         <page url="https://enginedj.com/downloads"/>
       </version>
-      <version platform="win64" number="3.2.0">
-        <summary>EnginePrime 3.2.0</summary>
+      <version platform="win64" number="3.3.0">
+        <summary>EnginePrime 3.3.0</summary>
         <page url="https://enginedj.com/downloads"/>
       </version>
     </newest>
